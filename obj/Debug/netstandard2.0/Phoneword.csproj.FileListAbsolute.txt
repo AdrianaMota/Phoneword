@@ -1,0 +1,12 @@
+/Users/adrianamota/Projects/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.deps.json
+/Users/adrianamota/Projects/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.dll
+/Users/adrianamota/Projects/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.pdb
+/Users/adrianamota/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.csprojAssemblyReference.cache
+/Users/adrianamota/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/adrianamota/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/adrianamota/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.csproj.CoreCompileInputs.cache
+/Users/adrianamota/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.AssemblyInfoInputs.cache
+/Users/adrianamota/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.AssemblyInfo.cs
+/Users/adrianamota/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/adrianamota/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.dll
+/Users/adrianamota/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.pdb
